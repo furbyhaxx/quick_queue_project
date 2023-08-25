@@ -12,7 +12,7 @@ setuptools.setup(
                 "velocity between processes)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Invarato/sort_in_disk_project",
+    url="https://github.com/Invarato/quick_queue_project",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
